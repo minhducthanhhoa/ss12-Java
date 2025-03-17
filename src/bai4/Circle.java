@@ -1,7 +1,5 @@
 package bai4;
 
-import bai3.Animal;
-
 public class Circle extends Shape {
     private double radius;
 

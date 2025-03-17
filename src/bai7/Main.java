@@ -8,7 +8,7 @@ public class Main {
                 new Bus()
         };
 
-        System.out.println("\n📌 Hệ thống giao thông:");
+        System.out.println("\nHệ thống giao thông:");
         for (Vehicle v : vehicles) {
             v.move();
             v.sound();
